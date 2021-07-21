@@ -76,4 +76,4 @@ myTree.insert(20);
 
 myTree.insert(25); 
 
-console.log( 'Hello world' );
+console.log( 'Hello world');
