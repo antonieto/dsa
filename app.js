@@ -41,7 +41,7 @@ class BinarySearchTree {
         } 
     }  
 
-    lookup( value ){ 
+    lookup( value  ){ 
         
         let iterator = this.root; 
 
