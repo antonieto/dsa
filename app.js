@@ -74,4 +74,6 @@ const myTree = new BinarySearchTree;
 
 myTree.insert(20); 
 
-myTree.insert(25);
+myTree.insert(25); 
+
+console.log( 'Hello world' );
